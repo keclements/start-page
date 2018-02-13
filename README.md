@@ -1,7 +1,7 @@
 
 ## Style Guidelines
 ### CSS
-- [https://css-tricks.com/snippets/css/complete-guide-grid/](CSS Guide)
+[CSS guide](ff6903e9c9ee37fd5535df67b60d065a7e695a27)
 
 ## Welcome to GitHub Pages
 
