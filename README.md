@@ -1,3 +1,8 @@
+
+## Style Guidelines
+### CSS
+- [https://css-tricks.com/snippets/css/complete-guide-grid/](CSS Guide)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sangfroid-k/learn-more/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
