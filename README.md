@@ -1,6 +1,7 @@
 
 ## Style Guidelines
 ### CSS
+[Github Start Pages thing](https://startpages.github.io/)
 [CSS guide](ff6903e9c9ee37fd5535df67b60d065a7e695a27)
 
 ## Welcome to GitHub Pages
