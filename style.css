@@ -60,12 +60,12 @@ a:link {
 }
 
 a:visited {
-	color: #e413d2;
+	color: #4deecb;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #0eebff;
+	color: #7eff0e;
 }
 
 /* Comment */ 
