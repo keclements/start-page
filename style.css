@@ -60,10 +60,10 @@ a:link {
 }
 
 a:visited {
-	color: #dedede;
+	color: #e413d2;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #3c6eb4;
+	color: #0eebff;
 }
