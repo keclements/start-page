@@ -54,21 +54,6 @@ div.books3 {
 	top: 150px;
 }
 
-div.books4 {
-	margin-left: 30%;
-	text-align: left;
-	padding-left: 20px;
-
-	font-family: Tamsyn, Monospace, Helvetica Neue;
-	font-weight: 300;
-	font-size: 0.75em;
-
-	position: fixed;
-	left: 40px;
-	top: 20px;
-
-}
-
 a:link {
 	text-decoration: none;
 	color: #dedede;
